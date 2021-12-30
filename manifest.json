@@ -1,0 +1,69 @@
+{
+  "minecraft": {
+    "version": "1.17.1",
+    "modLoaders": [
+      {
+        "id": "fabric-0.11.6",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "We Will Rise Again",
+  "version": "1.0.3",
+  "author": "TristanPoland",
+  "files": [
+    {
+      "projectID": 361585,
+      "fileID": 3344527,
+      "required": true
+    },
+    {
+      "projectID": 303119,
+      "fileID": 3343936,
+      "required": true
+    },
+    {
+      "projectID": 416796,
+      "fileID": 3426789,
+      "required": true
+    },
+    {
+      "projectID": 416797,
+      "fileID": 3405590,
+      "required": true
+    },
+    {
+      "projectID": 308702,
+      "fileID": 3348711,
+      "required": true
+    },
+    {
+      "projectID": 416089,
+      "fileID": 3402826,
+      "required": true
+    },
+    {
+      "projectID": 244260,
+      "fileID": 3345644,
+      "required": true
+    },
+    {
+      "projectID": 306612,
+      "fileID": 3377591,
+      "required": true
+    },
+    {
+      "projectID": 225179,
+      "fileID": 3345206,
+      "required": true
+    },
+    {
+      "projectID": 265729,
+      "fileID": 3423395,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}

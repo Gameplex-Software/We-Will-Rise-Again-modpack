@@ -1,0 +1,108 @@
+type = menu
+
+customization-meta {
+  identifier = net.minecraft.class_442
+  randomgroup = 1
+  renderorder = background
+  randommode = false
+  randomonlyfirsttime = false
+}
+
+customization {
+  path = resources/overlay.png
+  orientation = mid-right
+  x = -127
+  width = 127
+  actionid = ed693f27-9928-4a62-88a8-0c2b16972e491629312247176
+  action = addtexture
+  y = -129
+  height = 160
+}
+
+customization {
+  orientation = mid-right
+  shadow = false
+  x = -99
+  actionid = 237d16e1-a8d6-4b62-9690-0ca3a970e47c1629312272589
+  action = addtext
+  y = -127
+  scale = 1.0
+  alignment = left
+  value = Pack Developers
+}
+
+customization {
+  showname = true
+  orientation = mid-right
+  crouching = false
+  x = -101
+  slim = false
+  actionid = 1e9b2042-8e36-40b9-9a19-89b96a5c17ec1629312286744
+  action = addentity
+  y = -69
+  scale = 20
+  playername = MyNameIsJT
+  parrot = false
+}
+
+customization {
+  showname = true
+  orientation = mid-right
+  crouching = false
+  x = -100
+  slim = false
+  actionid = 1e9b2042-8e36-40b9-9a19-89b96a5c17ec1629312286744
+  action = addentity
+  y = -1
+  scale = 20
+  playername = TristanPoland
+  parrot = false
+}
+
+customization {
+  orientation = mid-right
+  shadow = false
+  x = -79
+  actionid = 72343f9f-4858-4ea8-b3ad-4a6f295147a21629312350856
+  action = addtext
+  y = -40
+  scale = 1.0
+  alignment = left
+  value = Tristan Poland
+}
+
+customization {
+  orientation = mid-right
+  shadow = false
+  x = -81
+  actionid = 5fa75d9d-6690-4e10-bf15-ef12f1af960b1629312375634
+  action = addtext
+  y = -110
+  scale = 1.0
+  alignment = left
+  value = MyNameIsJT
+}
+
+customization {
+  orientation = bottom-left
+  shadow = false
+  x = 4
+  actionid = 732fdfe1-19d9-4aee-a547-e53bac6f67a31629312447921
+  action = addtext
+  y = -12
+  scale = 1.0
+  alignment = left
+  value = The Last Of Us powered by: Forge (%loadedmods%/%totalmods% mods active)
+}
+
+customization {
+  path = resources/title.png
+  orientation = top-centered
+  x = -163
+  width = 326
+  actionid = 611b2990-d23c-44eb-b2ea-2429cd8fb28c1629374535758
+  action = addtexture
+  y = 23
+  height = 39
+}
+
